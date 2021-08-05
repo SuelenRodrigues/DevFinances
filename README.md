@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="./assets/logo.svg" alt="Dev Finances Logo"></h1>
-<p aling="center">Webpage to control personal finances developed during a Bootcamp to practice HTML, CSS and JavaScript offered by Rocket Seat</p>
+<p aling="center">Webpage to control personal finances developed during a Bootcamp to practice HTML, CSS and JavaScript offered by <a href="https://rocketseat.com.br">Rocket Seat</a>.</p>
 
 
 
