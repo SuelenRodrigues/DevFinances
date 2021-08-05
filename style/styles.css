@@ -205,6 +205,10 @@ td.expense {
   color: #e92929;
 }
 
+table tbody td img {
+  cursor: pointer;
+}
+
 /*---------- MODAL ----------*/
 .modal-overlay {
   width: 100%;
